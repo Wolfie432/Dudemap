@@ -6,13 +6,13 @@
 
 ---
 
-## ⚡ Features
+## Features
 
-- 🚀 **Ultra-fast rendering** of large spatial datasets  
-- 🔒 **Privacy-first architecture** — your data never leaves your computer  
-- 📦 **PMTiles support** for efficient large-scale map rendering  
-- 💾 **Import & Export sessions** — easily share your work with teammates  
-- 🌍 Clean and minimal UI for distraction-free mapping  
+- **Ultra-fast rendering** of large spatial datasets  
+- **Privacy-first architecture** — your data never leaves your computer  
+- **PMTiles support** for efficient large-scale map rendering  
+- **Import & Export sessions** — easily share your work with teammates  
+- Clean and minimal UI for distraction-free mapping  
 
 ---
 
@@ -93,6 +93,16 @@ Because mapping tools shouldn’t be:
 - or privacy-invasive 🚫  
 
 DudeMap keeps it simple, fast, and yours.
+
+---
+
+## ☕ Support DudeMap
+
+If you find DudeMap useful, consider supporting the project:
+
+<a href="https://www.buymeacoffee.com/dudemap" target="_blank">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/arial-yellow.png" alt="Buy Me A Coffee" width="200" />
+</a>
 
 ---
 
