@@ -6,10 +6,11 @@
 
 ---
 
-## Features
+## ✨ Features
 
 - **Ultra-fast rendering** of large spatial datasets  
 - **Privacy-first architecture** — your data never leaves your computer  
+- **Lightning-fast Spatial Analysis** — run geometry operations locally while keeping your data private
 - **PMTiles support** for efficient large-scale map rendering  
 - **Import & Export sessions** — easily share your work with teammates  
 - Clean and minimal UI for distraction-free mapping  
@@ -31,11 +32,30 @@ Just upload and start exploring instantly.
 
 ---
 
+## 🛠️ Spatial Analysis Tools (New!)
+
+We now support on-the-fly spatial analysis! While other spatial tools might offer these same capabilities, DudeMap performs them at **lightning speed** locally on your machine, with absolutely zero lag. Because we are strictly privacy-first, your data always remains entirely local.
+
+**Available Tools:**
+- Buffer
+- Convex Hull
+- Centroid
+- Bounding Box
+- Boundary
+- Unary Union
+- Minimum Bounding Circle
+- Polygon To Lines
+- Geometry Validation
+- Simplify
+- Draw Tools
+
+---
+
 ## 🔐 Privacy Matters
 
 We take your privacy seriously.
 
-> Your data is processed entirely in your browser.  
+> Since we are privacy-first, your data remains entirely local.  
 > No uploads. No servers. No tracking of your files.
 
 This makes DudeMap ideal for:
